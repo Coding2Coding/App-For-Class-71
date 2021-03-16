@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: linear-gradient(aliceblue 0%, white 100%)
+}
+.whatweteach {
+    width: 200px;
+    height: 200px;
+}
+.achievementsforschool {
+    width: 200px;
+    height: 200px;
+}
+.updates {
+    width: 200px;
+    height: 200px;
+}
+.achievements2 i {
+    float: right;
+}
+.achievements2 {
+    font-size: 20px;
+    padding: 2px;
+    border-radius: 2px;
+    margin-bottom: 20px;
+}
